@@ -4,9 +4,9 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _af00afb6 = () => interopDefault(import('../pages/deneme.vue' /* webpackChunkName: "pages/deneme" */))
-const _61aea80f = () => interopDefault(import('../pages/Weather.vue' /* webpackChunkName: "pages/Weather" */))
-const _165c4266 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _012612d3 = () => interopDefault(import('../pages/deneme.vue' /* webpackChunkName: "pages/deneme" */))
+const _1dd59321 = () => interopDefault(import('../pages/Weather.vue' /* webpackChunkName: "pages/Weather" */))
+const _317c665f = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -21,15 +21,15 @@ export const routerOptions = {
 
   routes: [{
     path: "/deneme",
-    component: _af00afb6,
+    component: _012612d3,
     name: "deneme"
   }, {
     path: "/Weather",
-    component: _61aea80f,
+    component: _1dd59321,
     name: "Weather"
   }, {
     path: "/",
-    component: _165c4266,
+    component: _317c665f,
     name: "index"
   }],
 

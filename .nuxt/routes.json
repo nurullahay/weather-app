@@ -2,19 +2,22 @@
   {
     "name": "deneme",
     "path": "/deneme",
-    "component": "/Users/nurullahay/Desktop/taks/nuxt/weather-app/pages/deneme.vue",
-    "chunkName": "pages/deneme"
+    "component": "/Users/nurullahay/Desktop/weather-app/pages/deneme.vue",
+    "chunkName": "pages/deneme",
+    "_name": "_012612d3"
   },
   {
     "name": "Weather",
     "path": "/Weather",
-    "component": "/Users/nurullahay/Desktop/taks/nuxt/weather-app/pages/Weather.vue",
-    "chunkName": "pages/Weather"
+    "component": "/Users/nurullahay/Desktop/weather-app/pages/Weather.vue",
+    "chunkName": "pages/Weather",
+    "_name": "_1dd59321"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Users/nurullahay/Desktop/taks/nuxt/weather-app/pages/index.vue",
-    "chunkName": "pages/index"
+    "component": "/Users/nurullahay/Desktop/weather-app/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_317c665f"
   }
 ]
