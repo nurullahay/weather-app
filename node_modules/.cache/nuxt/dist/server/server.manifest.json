@@ -1,0 +1,15 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/Weather.js": "pages/Weather.js",
+    "pages/deneme.js": "pages/deneme.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/Weather.js": "pages/Weather.js.map",
+    "pages/deneme.js": "pages/deneme.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
