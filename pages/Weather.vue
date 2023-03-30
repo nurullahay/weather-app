@@ -359,56 +359,56 @@ body,
 
 /* Animation background area start */
 .sunny {
-  background-image: url('/images/sunny.avif');
+  background-image: url('~/static/images/sunny.avif');
   border-radius: 12px;
   background-size: cover;
 }
 
 .cloudy {
-  background-image: url('/images/cloud.webp');
+  background-image: url('~/static/images/cloud.webp');
   border-radius: 12px;
   background-size: cover;
 }
 
 .rainy {
-  background-image: url('/images/rain.jpg');
+  background-image: url('~/static/images/rain.jpg');
   border-radius: 12px;
   background-size: cover;
   position: relative;
 }
 
 .snowy {
-  background-image: url('/images/snow.jpg');
+  background-image: url('~/static/images/snow.jpg');
   border-radius: 12px;
   background-size: cover;
 }
 
 .thunderstorm {
-  background-image: url('/images/storm.jpeg');
+  background-image: url('~/static/images/storm.jpeg');
   border-radius: 12px;
 }
 
 .foggy {
-  background-image: url('/images/foggy.jpeg');
+  background-image: url('~/static/images/foggy.jpeg');
   border-radius: 12px;
 }
 
 .snow {
-  background-image: url("/images/snow2.png");
+  background-image: url("~/static/images/snow2.png");
   animation: animateSnow1 9s linear infinite;
   padding: 10px 10px;
   border-radius: 12px;
 }
 
 .rain {
-  background-image: url("/images/rain2.png");
+  background-image: url("~/static/images/rain2.png");
   animation: animateSnow1 15s linear infinite;
   padding: 10px 10px;
   border-radius: 12px;
 }
 
 .fog {
-  background-image: url("/images/fog.png");
+  background-image: url("~/static/images/fog.png");
   animation: animateSnow1 15s linear infinite;
   padding: 10px 10px;
   border-radius: 12px;
