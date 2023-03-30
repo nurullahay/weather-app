@@ -36,7 +36,7 @@
             </div>
           </div>
           <!--Get today's weather information-->
-          <div class="temp-row">
+          <div v-if="firstDayWeather.temp" class="temp-row">
             <p class="today-weather-title">{{ parseInt(firstDayWeather.temp) }}°</p>
           </div>
         </div>
