@@ -1,7 +1,7 @@
 export default {
   target: 'static',
   router: {
-    base: '/<weather-app>/'
+    base: '/weather-app/'
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
