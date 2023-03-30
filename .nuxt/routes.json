@@ -1,0 +1,20 @@
+[
+  {
+    "name": "deneme",
+    "path": "/deneme",
+    "component": "/Users/nurullahay/Desktop/taks/nuxt/weather-app/pages/deneme.vue",
+    "chunkName": "pages/deneme"
+  },
+  {
+    "name": "Weather",
+    "path": "/Weather",
+    "component": "/Users/nurullahay/Desktop/taks/nuxt/weather-app/pages/Weather.vue",
+    "chunkName": "pages/Weather"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/nurullahay/Desktop/taks/nuxt/weather-app/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
