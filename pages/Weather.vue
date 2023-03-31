@@ -5,7 +5,7 @@
       <div class="input-container">
         <!--Get the city selected by the user with keyup-->
         <input class="city-input-bar" type="text" name="city" v-model="city" @keyup.enter="GetWeatherData">
-        <div class="searchIconBox">
+        <div class="searchIconBox" @click="GetWeatherData">
           <v-icon name="search" scale="2" />
         </div>
       </div>
